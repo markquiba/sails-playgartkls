@@ -1,3 +1,3 @@
-# sails-article
+# sails-playgartkls
 
 a [Sails](http://sailsjs.org) application
